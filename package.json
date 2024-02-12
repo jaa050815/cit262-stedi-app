@@ -6,6 +6,6 @@
     },
     "scripts": {
         "test": "mocha"
-      },
-      "type": "module"
+    },
+    "type": "module"
 }
