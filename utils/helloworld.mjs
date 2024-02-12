@@ -3,3 +3,4 @@ const sayHello=()=>{
 }
 
 export default sayHello;
+console.log(sayHello());
